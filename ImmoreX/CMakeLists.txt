@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 project(ImmoreX)
 
 set(ENGINE_SOURCES
-    src/ImmoreX/Application.cpp
+    src/ImmoreX/System/Application.cpp
 )
 
 set (BUILD_SHARED_LIBS TRUE)

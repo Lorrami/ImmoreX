@@ -1,9 +1,3 @@
-bin/
-obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
-.git 
+out
+.vs
 .idea
-x64
-ImmoreX/x64
